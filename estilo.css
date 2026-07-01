@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.tabla{
+    margin: 5%;
+    border-collapse: collapse;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+    
+}
+.table thead{
+    border-color: black;
+}
+.table th{
+    border: 2px solid black;
+    padding: 12px;
+    background-color: orangered;
+}
+.table tbody{
+     border: 2px solid black;
+     
+}
+.table td{
+    border: 2px solid black;
+    padding: 10px;
+      background-color: rgba(78, 78, 243, 0.966);
+    color: black;
+}
+.cuerpo{
+    background-color: gray;
+}
